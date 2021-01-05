@@ -1,0 +1,25 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "zenn",
+  "main": "index.js",
+  "scripts": {
+    "preview": "npx zenn preview",
+    "new": "npx zenn new:article --slug",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suico-jp/zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suico-jp/zenn/issues"
+  },
+  "homepage": "https://github.com/suico-jp/zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.66"
+  }
+}
